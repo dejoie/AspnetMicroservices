@@ -122,6 +122,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://192.168.1.207:5010"
+    "BaseUrl": "http://127.0.0.1:5010"
   }
 }
