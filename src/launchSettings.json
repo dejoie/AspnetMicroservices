@@ -9,7 +9,8 @@
         "basketdb": "StartWithoutDebugging",
         "catalogdb": "StartWithoutDebugging",
         "discount.api": "StartDebugging",
-        "discount.grpc": "StartDebugging"
+        "discount.grpc": "StartDebugging",
+        "ocelotapigw": "StartDebugging"
       }
     }
   }
