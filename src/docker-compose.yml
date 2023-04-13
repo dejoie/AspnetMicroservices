@@ -16,8 +16,8 @@ services:
   rabbitmq:
     image: rabbitmq:3-management-alpine
 
-  pgadmin:
-    image: dpage/pgadmin4  
+  #pgadmin:
+  #  image: dpage/pgadmin4  
 
   #portainer:
     #image: portainer/portainer-ce
@@ -56,6 +56,6 @@ volumes:
   mongo_data:
   portainer_data:
   postgres_data:
-  pgadmin_data:
+  #pgadmin_data:
 
 
